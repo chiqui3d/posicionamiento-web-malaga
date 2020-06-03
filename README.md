@@ -1,6 +1,9 @@
 # Posicionamiento web Málaga
 Click Solution 
 
+
+![Posicionamiento web Málaga](https://i.imgur.com/fSy4dcn.png?1)
+
 Somos un equipo de profesionales altamente cualificados y motivados listos para ayudarle a alcanzar sus objetivos.
 
 Ofrecemos servicios de posicionamiento web (SEO) para empresas y particulares, y puedan estar en lo más alto del ranking, incluido Google My Business(mapas).
