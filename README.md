@@ -6,7 +6,7 @@ Click Solution
 
 Somos un equipo de profesionales altamente cualificados y motivados listos para ayudarle a alcanzar sus objetivos.
 
-Ofrecemos servicios de posicionamiento web (SEO) para empresas y particulares, y puedan estar en lo más alto del ranking, incluido Google My Business(mapas).
+Ofrecemos servicios de posicionamiento web ([SEO](https://www.clicksolution.es/)) para empresas y particulares, y puedan estar en lo más alto del ranking, incluido Google My Business(mapas).
 
 Trabajamos y optimizamos campañas de pago por click (PPC) como Google Ad, Facebook Ad, Bing Ads, Quora y Reddit para que sean rentables.
 
